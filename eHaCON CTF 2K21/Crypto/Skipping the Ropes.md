@@ -5,7 +5,7 @@
 > Impressed by your skills, Caeser offers  you a file to make something out of it.
 >
 >
-> [`cipher`](cipher)
+> [`cipher`](cipher.txt)
 
 ## Summary
 
