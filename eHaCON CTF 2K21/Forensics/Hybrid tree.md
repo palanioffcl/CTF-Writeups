@@ -14,6 +14,12 @@
 > metadata of the image file but nothing works
 > Finally opened the file as text and obtained for the strings in the file. Finally got it :)
 
+# Syntax 
+
+```
+root@kali:$  strings hybrid-tree.png
+```
+
 # Flag
 
 ```
