@@ -17,7 +17,7 @@
 # Syntax 
 
 ```
-root@kali:$  strings hybrid-tree.png
+root@kali:$  strings hybrid-tree.png | grep eHaCON
 ```
 
 # Flag
