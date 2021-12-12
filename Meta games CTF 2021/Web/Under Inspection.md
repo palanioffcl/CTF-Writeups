@@ -5,11 +5,8 @@
 One of the Autobot accounts has a flag that they're trying to keep hidden from the Decepticons, can you figure out which account it is and steal it?
 
 ### View-source:
-Leta check the source file which is done by adding prefix view-source: on the url :)
-```Javascript
-var username = document.getElementById("username").value;
-var password = document.getElementById("password").value;
-var result = document.getElementById("result");
+Lets check the source file which is done by adding prefix view-source: on the url :)
+```
 var accounts = [
   {user: "Admin", pwd: "MetaCTF{super_secure_password}"},
   {user: "Bumblebee", pwd: "MetaCTF{sting_like_a_bee}"},
