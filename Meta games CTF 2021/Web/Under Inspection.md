@@ -5,7 +5,7 @@
 One of the Autobot accounts has a flag that they're trying to keep hidden from the Decepticons, can you figure out which account it is and steal it?
 
 ### View-source:
-Leta check the source file which is done by adding prefix view-source: of the url :)
+Leta check the source file which is done by adding prefix view-source: on the url :)
 ```Javascript
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
