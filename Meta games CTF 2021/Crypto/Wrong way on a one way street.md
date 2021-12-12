@@ -8,9 +8,9 @@
 
 ### Procedure:
 
-By seeing the cipher text it says its a md5 salted password hash so lets make it to readable format. I Personally use crack station to crack :p 
+By seeing the cipher text it says its a md5 salted password hash so lets make it to readable format. I use crack station to crack :p 
 
-I got the Flag 😍
+I got the Flag 😍 
 
 # Flag:
 
