@@ -12,10 +12,7 @@ Lets check the strings in it
 ```
 root@kali~$ strings strings
 ```
-
-I personally use Cyberchef to check the strings in it.
-
-Eventually i got the flag:)
+I used cyberchef and got the flag :)
 
 # Flag: 
 ```
