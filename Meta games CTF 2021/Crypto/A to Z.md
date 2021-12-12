@@ -16,7 +16,7 @@ A to Z (or) B to Y
 
 # Letz Decrypt😁
 
-Lets decrypt by substituting A to Z , B to Y , C to X respectively. Eventually we get...
+Lets decrypt by substituting A to Z , B to Y , C to X respectively. Finally we get...
 
 # Flag 
 
