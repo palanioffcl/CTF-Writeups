@@ -12,7 +12,7 @@ By seeing the n , e , c values we came to know that it's a RSA encrypted cipher.
 
 Let's break the RSA using decode.fr or your own tool to decrypt.
 
-After make all those things. Eventually we get the Flag😍
+After make all those things. I got the Flag😍
 
 # Flag:
 ```
