@@ -1,11 +1,11 @@
 # MetaCtF Games 2021
 ## Who broke this Printer this time(200pts)
 # Description: 
-Malicious operators typically exploit unpatched vulnerabilities within target environments to gain initial access, escalate privileges, and more.
-
-What recent vulnerability have Conti ransomware operators exploited to run arbitrary code with SYSTEM privileges?
-
-The flag format will be CVE-xxxx-xxxxx 
+>Malicious operators typically exploit unpatched vulnerabilities within target environments to gain initial access, escalate privileges, and more.
+>
+>What recent vulnerability have Conti ransomware operators exploited to run arbitrary code with SYSTEM privileges?
+>
+>The flag format will be ```CVE-xxxx-xxxxx```
 
 # G00gling:
 
