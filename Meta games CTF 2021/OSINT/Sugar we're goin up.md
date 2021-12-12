@@ -10,11 +10,12 @@ What is the CVE number for this critical, actively exploited vulnerability? The 
 
 ### G00gling:
 
-By using Google we can search for a GitLab RCE vulnerability and check out anything recent.
+Lets search google about gitlab cvssv3 score first we get this [Link](https://about.gitlab.com/blog/2021/11/04/action-needed-in-response-to-cve2021-22205/)
 
-Sure enough, the first [result](https://www.rapid7.com/blog/post/2021/11/01/gitlab-unauthenticated-remote-code-execution-cve-2021-22205-exploited-in-the-wild/) talks about a patch released in April and an upgraded CVSSv3 score.
 
-Certainly, this is our intended CVE.
+
+
+
 
 
 
