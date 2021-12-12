@@ -7,7 +7,7 @@
 
 ## G00gling:
  
-Lets Google about file headers :) [link](https://www.garykessler.net/library/file_sigs.html)
+Lets Google about file headers :) [File Headers](https://www.garykessler.net/library/file_sigs.html)
 
 ## Flag:
 
